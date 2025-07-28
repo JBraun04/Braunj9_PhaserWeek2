@@ -8,13 +8,17 @@ Instructions to this assignment can be found [here](https://uc.instructure.com/c
 ## Checklist:
 - [ ] update the assignment checks above to the correct link
 - [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation:
 
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 18
 
-## Self-Reflection:
+## Self-Reflection: 
+
+I enjoyed this assignment a lot and I feel like it is providing me with a lot of Phaser knowledge that will help me in the final project. This definitely gave me a better understanding of the audio and sprite capabilities of Phaser.
 
 ### How long it took me to finish this?
+
+3 hours.
